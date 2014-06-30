@@ -1,0 +1,27 @@
+body{
+background-color:#880000;
+}
+
+h2{
+	color: #CDA776;
+	margin-left: 200px;
+	font-size: 25px;
+}
+
+#hook{
+	text-align:center;
+}
+
+#changeBoard{
+	color: #880000;
+	margin-left: 15px;
+}
+
+
+#randomize{
+	color: #880000;
+	margin:8px;
+}
+
+
+
